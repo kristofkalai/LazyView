@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "lazyview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stateman92/LazyView",
+      "state" : {
+        "revision" : "596ad97c4bb53154520f2da5d8b68ed6c17d2f3a",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
